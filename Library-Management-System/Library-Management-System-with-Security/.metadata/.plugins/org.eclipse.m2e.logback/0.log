@@ -1,0 +1,30 @@
+2025-02-15 01:24:43,218 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-02-15 01:25:15,976 [Worker-20: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.libray:Library-management-system:0.0.1-SNAPSHOT @ C:\Users\pr900\Downloads\Library-Management-System\Shubhamadmane05-Library-Management-System-with-Security-main\Library-ms-backend\pom.xml.
+2025-02-15 01:25:27,405 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Library-ms-backend/src/main/java
+2025-02-15 01:25:27,408 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Library-ms-backend/src/main/resources
+2025-02-15 01:25:27,409 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Library-ms-backend/src/main/resources
+2025-02-15 01:25:27,411 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Library-ms-backend/src/test/java
+2025-02-15 01:25:27,412 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Library-ms-backend/src/test/resources
+2025-02-15 01:25:27,801 [Worker-20: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 23 sec
+2025-02-15 01:25:27,998 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-02-15 01:25:28,678 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.libray:Library-management-system:0.0.1-SNAPSHOT @ C:\Users\pr900\Downloads\Library-Management-System\Shubhamadmane05-Library-Management-System-with-Security-main\Library-ms-backend\pom.xml.
+2025-02-15 01:25:29,919 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Library-ms-backend/src/main/java
+2025-02-15 01:25:29,920 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Library-ms-backend/src/main/resources
+2025-02-15 01:25:29,921 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Library-ms-backend/src/main/resources
+2025-02-15 01:25:29,921 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Library-ms-backend/src/test/java
+2025-02-15 01:25:29,923 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Library-ms-backend/src/test/resources
+2025-02-15 01:25:30,539 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-02-15 01:25:31,687 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-15 01:25:31,714 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-15 01:25:31,722 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pr900\Downloads\Library-Management-System\Shubhamadmane05-Library-Management-System-with-Security-main\Library-ms-backend\src\test\resources
+2025-02-15 01:25:43,811 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-02-15 01:25:46,277 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.libray:Library-management-system:0.0.1-SNAPSHOT @ C:\Users\pr900\Downloads\Library-Management-System\Shubhamadmane05-Library-Management-System-with-Security-main\Library-ms-backend\pom.xml.
+2025-02-15 01:25:55,291 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Library-ms-backend/src/main/java
+2025-02-15 01:25:55,292 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Library-ms-backend/src/main/resources
+2025-02-15 01:25:55,293 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Library-ms-backend/src/main/resources
+2025-02-15 01:25:55,293 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Library-ms-backend/src/test/java
+2025-02-15 01:25:55,294 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Library-ms-backend/src/test/resources
+2025-02-15 01:25:55,695 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 10.00 sec, update config takes 1.00 sec 
+2025-02-15 01:25:57,050 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-15 01:25:57,071 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-15 01:25:57,096 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pr900\Downloads\Library-Management-System\Shubhamadmane05-Library-Management-System-with-Security-main\Library-ms-backend\src\test\resources
